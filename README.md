@@ -34,7 +34,7 @@
 
 > *"I build AI systems that are not just intelligent — but interpretable, reliable, and grounded in scientific rigor."*
 
-I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University** (GPA **3.84/4.00**), currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** — from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**. Multiple papers accepted at international venues (**IEEE/IFIP NOMS · ICHORA · IISEC · BalkanCom 2026**).
+I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** — from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**. Multiple papers accepted at international venues (**IEEE/IFIP NOMS · ICHORA · IISEC · BalkanCom 2026**).
 
 ```python
 class Researcher:
@@ -69,64 +69,6 @@ class Researcher:
 - 🛰  **Co-Author** of *"A Hybrid GAT-GRU-Attention Architecture for 5G Positioning"* — BalkanCom 2026
 - 🏆  **3rd Place** @ Teknofest 2025 *(5G Positioning, 343 teams)* · **1st Place** @ YAZGİG'26
 - 💡  Open to **research collaborations**, **PhD discussions**, and **open-source contributions**
-
----
-
-## 📚 &nbsp; Selected Publications & Academic Activities
-
-<table>
-<tr>
-<td width="80" align="center">📄</td>
-<td>
-
-**A White-Box Benchmark for Turkish LLM Hallucination Detection** &nbsp;·&nbsp; *First Author*<br/>
-<sub>📍 Accepted at **IISEC 2026** &nbsp;·&nbsp; 🗓 January 2026</sub><br/>
-<sub>Introduced novel intrinsic uncertainty metrics — **Information Entropy (IE)** and **Edge Attention Entropy (EAE)** — built on internal logit distributions and attention-map kernels to evaluate Kumru-2B, Trendyol-7B and other Turkish LLMs.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center">📡</td>
-<td>
-
-**A Hybrid GAT-GRU-Attention Architecture for 5G Positioning** &nbsp;·&nbsp; *Co-Author*<br/>
-<sub>📍 Accepted at **BalkanCom 2026** &nbsp;·&nbsp; 🗓 May 2026</sub><br/>
-<sub>Engineered a Graph Attention + GRU hybrid for NLOS positioning in dense urban 5G networks; reached **R² = 0.9805** on real Turkcell data with a custom geospatial *Obstacle Score* algorithm.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center">🧩</td>
-<td>
-
-**Special Session Co-Organizer — EXIT-ANA 2026**<br/>
-<sub>📍 **ICHORA 2026** & **IEEE SIU 2026** &nbsp;·&nbsp; 🗓 May & July 2026</sub><br/>
-<sub>Co-organizing *"Explainable, Interpretable & Trustworthy AI for Next-Generation Network Autonomy"* — addressing Black-Box risks in 6G/O-RAN with researchers from Ankara University & ASELSAN.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center">🎙</td>
-<td>
-
-**Tutorial Instructor — Trustworthy AI for Network Autonomy**<br/>
-<sub>📍 **ICHORA 2026** &nbsp;·&nbsp; 🗓 May 2026</sub><br/>
-<sub>Delivering a **180-minute** half-day tutorial on XAI for autonomous network management — Counterfactual Reasoning, Surrogate Modeling, debugging closed-loop AI.</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 &nbsp; Research Experience
-
-| Position | Institution | Period |
-|---|---|---|
-| 🧪 **Research Assistant** | ANLAM-NET Research Lab — *Trustworthy AI · LLM · CV* | Aug 2025 – Present |
-| 🌟 **TÜBİTAK 2247-C STAR Intern Researcher** | ANLAM-NET Lab · ARDEB #125E350 | Jan 2026 – Present |
-| 🤖 **AI Software Engineering Intern** | Greycollar AI — *Atlanta, USA (Remote)* | Jan – Feb 2026 |
-| 🧬 **AI Research Intern** | GİMRE — *Interventional MR R&D Institute* | Jun – Sep 2025 |
 
 ---
 
@@ -265,37 +207,6 @@ Algorithmic interactive CLI agent for research-data confidentiality. **Rust** co
 <tr><td>🥇</td><td><b>YAZGİG'26 AI & Image Processing</b></td><td><b>1st Place Winner</b> · *Graphow* project</td></tr>
 <tr><td>🎖</td><td><b>UAB R&D Idea Competition</b></td><td>Selected for official support under UAB Innovation Program</td></tr>
 </table>
-
----
-
-## 📊 &nbsp; GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/Berkaybbayramoglu">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Berkaybbayramoglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkaybbayramoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Berkaybbayramoglu">
-  <img src="https://streak-stats.demolab.com?user=Berkaybbayramoglu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Berkaybbayramoglu">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkaybbayramoglu&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Berkaybbayramoglu">
-  <img src="https://github-profile-trophy.vercel.app/?username=Berkaybbayramoglu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</a>
-
-</div>
 
 ---
 
