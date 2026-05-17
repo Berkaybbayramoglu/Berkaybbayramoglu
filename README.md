@@ -47,15 +47,8 @@ class Researcher:
         self.focus        = ["Large Language Models", "Computer Vision",
                              "Trustworthy & Explainable AI", "Graph Neural Networks",
                              "Deep Learning Theory & Foundations"]
-        self.research     = {
-            "fundamental": ["Weight Initialization Dynamics",
-                            "Attention & Uncertainty Mechanics",
-                            "Optimization Landscapes"],
-            "applied":     ["LLM Hallucination Detection",
-                            "Network Autonomy & 6G/O-RAN",
-                            "Pixel-Level Deepfake Detection",
-                            "UAV Visual Perception (GPS-Denied)"]
-        }
+        self.principles   = ["Scientific Rigor", "Reproducibility",
+                             "Interpretability", "Open Science"]
 
     def mission(self):
         return "Make AI explainable, reliable, and worth trusting."
