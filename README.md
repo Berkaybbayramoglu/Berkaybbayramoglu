@@ -83,8 +83,8 @@ class Researcher:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </td>
 <td align="center" width="50%">
@@ -126,6 +126,20 @@ class Researcher:
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<br/>
+
+**⚛️ &nbsp; Quantum Computing**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+<img src="https://img.shields.io/badge/PennyLane-1DB5BE?style=for-the-badge&logo=pennylane&logoColor=white" />
 
 </td>
 </tr>
