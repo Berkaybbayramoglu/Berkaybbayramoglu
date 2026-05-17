@@ -32,9 +32,9 @@
 
 ## 🧠 &nbsp; About Me
 
-> *"I build AI systems that are not just intelligent — but interpretable, reliable, and grounded in scientific rigor."*
+> *"I build AI systems that are not just intelligent - but interpretable, reliable, and grounded in scientific rigor."*
 
-I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** — from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**.
+I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** - from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**.
 
 > 📄 *For **business inquiries, consulting, research collaborations, or recruitment purposes**, you may **[request my CV](mailto:berkaybbayramoglu@gmail.com?subject=CV%20Request)** for a detailed overview of my publications, research experience, and academic activities.*
 
@@ -51,7 +51,7 @@ class Researcher:
                              "Interpretability", "Open Science", "Discipline"]
 
     def mission(self):
-        return ("Advance the frontier of AI — building LLMs that reason faithfully, "
+        return ("Advance the frontier of AI - building LLMs that reason faithfully, "
                 "Computer Vision systems that perceive reliably, and Deep Learning "
                 "models that are interpretable by design.")
 ```
@@ -59,7 +59,7 @@ class Researcher:
 - 🔬  Currently exploring **LLM reasoning**, **uncertainty quantification**, and **trustworthy visual perception**
 - 📚  Active across **fundamental** and **applied** deep learning research
 - 🤝  Open to **research collaborations**, **PhD discussions**, and **open-source contributions**
-- 📄  Detailed CV available on request &nbsp;—&nbsp; *for business inquiries, consulting, or recruitment*
+- 📄  Detailed CV available on request &nbsp;-&nbsp; *for business inquiries, consulting, or recruitment*
 
 ---
 
@@ -147,8 +147,8 @@ class Researcher:
 ## 🏆 &nbsp; Competitions & Recognition
 
 <table>
-<tr><td>🥉</td><td><b>Teknofest 2025 — 5G Positioning</b></td><td><b>3rd Place</b> · 343 teams · GNN+GRU+Attention hybrid · Turkcell datasets</td></tr>
-<tr><td>🏅</td><td><b>Teknofest 2025 — Turkish NLP</b></td><td><b>Top 20 Finalist</b> · 353 teams · Multi-step Reasoning · CoT · RAG · Function Calling</td></tr>
+<tr><td>🥉</td><td><b>Teknofest 2025 - 5G Positioning</b></td><td><b>3rd Place</b> · 343 teams · GNN+GRU+Attention hybrid · Turkcell datasets</td></tr>
+<tr><td>🏅</td><td><b>Teknofest 2025 - Turkish NLP</b></td><td><b>Top 20 Finalist</b> · 353 teams · Multi-step Reasoning · CoT · RAG · Function Calling</td></tr>
 <tr><td>🥇</td><td><b>YAZGİG'26 AI & Image Processing</b></td><td><b>1st Place Winner</b> · *Graphow* project</td></tr>
 <tr><td>🎖</td><td><b>UAB R&D Idea Competition</b></td><td>Selected for official support under UAB Innovation Program</td></tr>
 </table>
@@ -159,7 +159,7 @@ class Researcher:
 
 <div align="center">
 
-I'm always open to **research discussions**, **academic collaborations**, and **open-source contributions** —<br/>
+I'm always open to **research discussions**, **academic collaborations**, and **open-source contributions** -<br/>
 especially around **LLM reasoning**, **Trustworthy AI**, **Computer Vision**, and **Graph Neural Networks**.
 
 <br/>
@@ -178,7 +178,7 @@ especially around **LLM reasoning**, **Trustworthy AI**, **Computer Vision**, an
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer" alt="footer" />
 
-<sub>⭐ <i>"Science is a way of thinking much more than it is a body of knowledge."</i> — Carl Sagan</sub><br/>
+<sub>⭐ <i>"Science is a way of thinking much more than it is a body of knowledge."</i> - Carl Sagan</sub><br/>
 <sub>Crafted with curiosity by <a href="https://github.com/Berkaybbayramoglu">@Berkaybbayramoglu</a></sub>
 
 </div>
