@@ -34,7 +34,7 @@
 
 > *"I build AI systems that are not just intelligent — but interpretable, reliable, and grounded in scientific rigor."*
 
-I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University** (GPA **3.84/4.00**), currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work bridges **applied deep learning**, **large language models**, **computer vision**, and **trustworthy AI**, with multiple papers accepted at international venues (**IEEE/IFIP NOMS · ICHORA · IISEC · BalkanCom 2026**).
+I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University** (GPA **3.84/4.00**), currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** — from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**. Multiple papers accepted at international venues (**IEEE/IFIP NOMS · ICHORA · IISEC · BalkanCom 2026**).
 
 ```python
 class Researcher:
@@ -43,11 +43,17 @@ class Researcher:
         self.role         = "AI Researcher · Research Assistant @ ANLAM-NET Lab"
         self.affiliation  = "Ankara University · Software Engineering (B.Sc., 2024–2028)"
         self.focus        = ["Large Language Models", "Computer Vision",
-                             "Trustworthy & Explainable AI", "Graph Neural Networks"]
-        self.research     = ["LLM Hallucination Detection",
-                             "Network Autonomy & 6G/O-RAN",
-                             "Pixel-Level Deepfake Detection",
-                             "UAV Visual Perception (GPS-Denied)"]
+                             "Trustworthy & Explainable AI", "Graph Neural Networks",
+                             "Deep Learning Theory & Foundations"]
+        self.research     = {
+            "fundamental": ["Weight Initialization Dynamics",
+                            "Attention & Uncertainty Mechanics",
+                            "Optimization Landscapes"],
+            "applied":     ["LLM Hallucination Detection",
+                            "Network Autonomy & 6G/O-RAN",
+                            "Pixel-Level Deepfake Detection",
+                            "UAV Visual Perception (GPS-Denied)"]
+        }
         self.grants       = ["TÜBİTAK 2209-B", "TÜBİTAK 2247-C STAR",
                              "Ankara Univ. BAP", "ARDEB #125E350"]
         self.venues       = ["IEEE/IFIP NOMS", "ICHORA 2026", "IISEC 2026",
