@@ -48,10 +48,12 @@ class Researcher:
                              "Trustworthy & Explainable AI", "Graph Neural Networks",
                              "Deep Learning Theory & Foundations"]
         self.principles   = ["Scientific Rigor", "Reproducibility",
-                             "Interpretability", "Open Science"]
+                             "Interpretability", "Open Science", "Discipline"]
 
     def mission(self):
-        return "Make AI explainable, reliable, and worth trusting."
+        return ("Advance the frontier of AI — building LLMs that reason faithfully, "
+                "Computer Vision systems that perceive reliably, and Deep Learning "
+                "models that are interpretable by design.")
 ```
 
 - 🔬  Currently exploring **LLM reasoning**, **uncertainty quantification**, and **trustworthy visual perception**
