@@ -34,7 +34,9 @@
 
 > *"I build AI systems that are not just intelligent — but interpretable, reliable, and grounded in scientific rigor."*
 
-I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** — from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**. Multiple papers accepted at international venues (**IEEE/IFIP NOMS · ICHORA · IISEC · BalkanCom 2026**).
+I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** — from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**.
+
+> 📄 *For **business inquiries, consulting, research collaborations, or recruitment purposes**, you may **[request my CV](mailto:berkaybbayramoglu@gmail.com?subject=CV%20Request)** for a detailed overview of my publications, research experience, and academic activities.*
 
 ```python
 class Researcher:
@@ -54,21 +56,15 @@ class Researcher:
                             "Pixel-Level Deepfake Detection",
                             "UAV Visual Perception (GPS-Denied)"]
         }
-        self.grants       = ["TÜBİTAK 2209-B", "TÜBİTAK 2247-C STAR",
-                             "Ankara Univ. BAP", "ARDEB #125E350"]
-        self.venues       = ["IEEE/IFIP NOMS", "ICHORA 2026", "IISEC 2026",
-                             "BalkanCom 2026", "IEEE SIU 2026"]
 
     def mission(self):
         return "Make AI explainable, reliable, and worth trusting."
 ```
 
-- 🔬  **Research Assistant** @ [ANLAM-NET Lab](https://github.com/anlam-net) — Trustworthy AI · LLM Reasoning · Network Autonomy
-- 🎓  **TÜBİTAK 2247-C STAR Scholar** — real-time Turkish NLP intelligent feedback ecosystem (ARDEB #125E350)
-- 📑  **First-Author** of *"A White-Box Benchmark for Turkish LLM Hallucination Detection"* — IISEC 2026
-- 🛰  **Co-Author** of *"A Hybrid GAT-GRU-Attention Architecture for 5G Positioning"* — BalkanCom 2026
-- 🏆  **3rd Place** @ Teknofest 2025 *(5G Positioning, 343 teams)* · **1st Place** @ YAZGİG'26
-- 💡  Open to **research collaborations**, **PhD discussions**, and **open-source contributions**
+- 🔬  Currently exploring **LLM reasoning**, **uncertainty quantification**, and **trustworthy visual perception**
+- 📚  Active across **fundamental** and **applied** deep learning research
+- 🤝  Open to **research collaborations**, **PhD discussions**, and **open-source contributions**
+- 📄  Detailed CV available on request &nbsp;—&nbsp; *for business inquiries, consulting, or recruitment*
 
 ---
 
@@ -129,73 +125,6 @@ class Researcher:
 </p>
 
 </div>
-
----
-
-## 🚀 &nbsp; Flagship Research Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🛡 GenImage — Pixel-Level Deepfake Detection
-*TÜBİTAK 2209-B Grant · Principal Investigator*
-
-A hybrid **GAT-GCN** architecture combining frequency, gradient, and residual domain features for robust deepfake identification. Industrial inference optimized via **Optuna + ONNX Runtime**; explainability via **Grad-CAM** and **LIME**.
-
-`Graph Neural Networks` `XAI` `ONNX` `Optuna`
-
-</td>
-<td valign="top" width="50%">
-
-### 🛸 GökAnlam — UAV GPS-Denied Navigation
-*Ankara Univ. BAP Grant · Funded Researcher*
-
-Edge-deployable visual perception stack for autonomous UAVs. Detection-tracking via **YOLOv8/v9 + RT-DETR + SAHI + WBF + BoT-SORT**, **PyrLK Visual Odometry** for GPS-denied localization, **Grounding DINO + CLIP** zero-shot anomaly detection.
-
-`Computer Vision` `Edge AI` `Zero-Shot Learning`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 📑 PaperSynth — Multi-Agent Research Synthesis
-A hierarchical multi-agent pipeline (Reader → Analyzer → Writer → Reviewer → Validator) orchestrated by a **Behavior Tree** under **Semantic Kernel + Asyncio** with local LLMs and dynamic chunking.
-
-`LLM Agents` `Semantic Kernel` `Multi-Agent Systems`
-
-</td>
-<td valign="top">
-
-### 🧠 Graphow — Intelligent Second Brain
-*YAZGİG'26 Champion · 1st Place*
-
-Unstructured data → interactive **Knowledge Graph** via embeddings, **UMAP** clustering, and a **WebGL/GLSL** GPU-accelerated visualization engine.
-
-`Knowledge Graphs` `Vector Search` `WebGL`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🎭 Multimodal Emotion Recognition with XAI
-Text + Audio fusion architecture outperforming unimodal baselines, with **Integrated Gradients** and **Gradient SHAP** revealing dynamic attribution shifts across emotion types.
-
-`Multimodal Fusion` `XAI` `Integrated Gradients`
-
-</td>
-<td valign="top">
-
-### 🔐 Stegano — CLI Steganography Engine
-Algorithmic interactive CLI agent for research-data confidentiality. **Rust** core for memory-safe steganography + **Python** routing, with multi-layered encryption and deterministic error-checking.
-
-`Rust` `Cryptography` `CLI Agents`
-
-</td>
-</tr>
-</table>
 
 ---
 
