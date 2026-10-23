@@ -155,6 +155,8 @@ class Researcher:
 <tr><td>🎖</td><td><b>UAB R&D Idea Competition</b></td><td>Selected for official support under UAB Innovation Program</td></tr>
 </table>
 
+<sub>🔒 Selected highlights only — the full list of awards, grants and publications is in my CV, available <a href="mailto:berkaybbayramoglu@gmail.com?subject=CV%20Request">on request</a>.</sub>
+
 ---
 
 ## 🤝 &nbsp; Let's Collaborate
