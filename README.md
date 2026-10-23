@@ -1,18 +1,18 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       BERKAY BAYRAMOĞLU                                  ║ -->
-<!-- ║       AI Researcher · LLM · Computer Vision · Trustworthy AI             ║ -->
+<!-- ║   AI Researcher · Computer Vision · Geometric DL · Trustworthy AI · RL   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <a href="https://github.com/Berkaybbayramoglu">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Berkay%20Bayramo%C4%9Flu&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Researcher%20%E2%80%A2%20LLM%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Trustworthy%20AI&descAlignY=58&descSize=17&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Berkay%20Bayramo%C4%9Flu&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Researcher%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Geometric%20DL%20%E2%80%A2%20Trustworthy%20AI&descAlignY=58&descSize=17&animation=fadeIn" alt="header" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Berkaybbayramoglu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Research+Assistant+%40+ANLAM-NET+Lab;LLM+Reasoning+%E2%80%A2+XAI+%E2%80%A2+Graph+Neural+Networks;Turning+research+papers+into+real-world+systems;Building+the+next+generation+of+Trustworthy+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Research+Assistant+%40+ANLAM-NET+Lab;Undergraduate+Researcher+%40+CRADLE+Lab+(UM-Flint);Computer+Vision+%E2%80%A2+Geometric+Deep+Learning+%E2%80%A2+RL;Building+perception+that+autonomous+systems+can+trust." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 
 > *"I build AI systems that are not just intelligent - but interpretable, reliable, and grounded in scientific rigor."*
 
-I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently serving as a **Research Assistant** at the **ANLAM-NET Research Lab**. My work spans **both fundamental and applied deep learning** - from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **large language models**, **computer vision**, and **trustworthy AI**.
+I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently a **Research Assistant** at the **ANLAM-NET Research Lab** and an **Undergraduate Researcher** at the **CRADLE Lab, University of Michigan-Flint** (Project BRIDGE, TÜBİTAK 2501 – U.S. NSF). My work spans **both fundamental and applied deep learning** - from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **computer vision**, **autonomous systems**, **geometric deep learning**, **trustworthy AI** and **reinforcement learning**.
 
 > 📄 *For **business inquiries, consulting, research collaborations, or recruitment purposes**, you may **[request my CV](mailto:berkaybbayramoglu@gmail.com?subject=CV%20Request)** for a detailed overview of my publications, research experience, and academic activities.*
 
@@ -42,21 +42,23 @@ I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara 
 class Researcher:
     def __init__(self):
         self.name         = "Berkay Bayramoğlu"
-        self.role         = "AI Researcher · Research Assistant @ ANLAM-NET Lab"
+        self.role         = ["Research Assistant @ ANLAM-NET Lab",
+                             "Undergraduate Researcher @ CRADLE Lab, UM-Flint"]
         self.affiliation  = "Ankara University · Software Engineering (B.Sc., 2024–2028)"
-        self.focus        = ["Large Language Models", "Computer Vision",
-                             "Trustworthy & Explainable AI", "Graph Neural Networks",
-                             "Deep Learning Theory & Foundations"]
+        self.focus        = ["Computer Vision", "Autonomous Systems",
+                             "Geometric Deep Learning", "Trustworthy AI",
+                             "Reinforcement Learning", "Large Language Models"]
         self.principles   = ["Scientific Rigor", "Reproducibility",
                              "Interpretability", "Open Science", "Discipline"]
 
     def mission(self):
-        return ("Advance the frontier of AI - building LLMs that reason faithfully, "
-                "Computer Vision systems that perceive reliably, and Deep Learning "
+        return ("Advance the frontier of AI - building Computer Vision systems that "
+                "perceive reliably under distribution shift, agents that turn perception "
+                "into safe decisions, and Deep Learning "
                 "models that are interpretable by design.")
 ```
 
-- 🔬  Currently exploring **LLM reasoning**, **uncertainty quantification**, and **trustworthy visual perception**
+- 🔬  Currently exploring **shift-robust visual perception**, **symmetry-aware graph neural networks**, and **reinforcement learning for autonomous systems**
 - 📚  Active across **fundamental** and **applied** deep learning research
 - 🤝  Open to **research collaborations**, **PhD discussions**, and **open-source contributions**
 - 📄  Detailed CV available on request &nbsp;-&nbsp; *for business inquiries, consulting, or recruitment*
@@ -160,7 +162,7 @@ class Researcher:
 <div align="center">
 
 I'm always open to **research discussions**, **academic collaborations**, and **open-source contributions** -<br/>
-especially around **LLM reasoning**, **Trustworthy AI**, **Computer Vision**, and **Graph Neural Networks**.
+especially around **Computer Vision**, **Geometric Deep Learning**, **Trustworthy AI**, and **Reinforcement Learning**.
 
 <br/>
 
