@@ -34,7 +34,7 @@
 
 > *"I build AI systems that are not just intelligent - but interpretable, reliable, and grounded in scientific rigor."*
 
-I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently a **Research Assistant** at the **ANLAM-NET Research Lab** and an **Undergraduate Researcher** at the **CRADLE Lab, University of Michigan-Flint** (Project BRIDGE, TÜBİTAK 2501 – U.S. NSF). My work spans **both fundamental and applied deep learning** - from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **computer vision**, **autonomous systems**, **geometric deep learning**, **trustworthy AI** and **reinforcement learning**.
+I'm an **AI Researcher** and **Software Engineering** undergraduate at **Ankara University**, currently a **Research Assistant** at the **ANLAM-NET Research Lab** and an **Undergraduate Researcher** at the **CRADLE Lab, University of Michigan-Flint**. My work spans **both fundamental and applied deep learning** - from the **theoretical foundations** (optimization dynamics, weight initialization, attention mechanics, uncertainty quantification) to **real-world systems** in **computer vision**, **autonomous systems**, **geometric deep learning**, **trustworthy AI** and **reinforcement learning**.
 
 > 📄 *For **business inquiries, consulting, research collaborations, or recruitment purposes**, you may **[request my CV](mailto:berkaybbayramoglu@gmail.com?subject=CV%20Request)** for a detailed overview of my publications, research experience, and academic activities.*
 
